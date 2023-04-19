@@ -13,6 +13,9 @@ Link: https://www.kaggle.com/c/fake-news/data
 + Наилучший результат по F1-macro для XGBoost - 0.9673
 + Визуализация наиболее встречающихся слов в датасете на основании Tfidf
 
+![top50](https://github.com/InsightofSPb/ML_projects/blob/main/Fake_news/Pictures/Top50words.png)
+![models](https://github.com/InsightofSPb/ML_projects/blob/main/Fake_news/Pictures/Colorbar.png)
+
 ## Загрузка библиотек
 ```python
 import pandas as pd
